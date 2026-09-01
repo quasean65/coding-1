@@ -1,0 +1,5 @@
+github - A website to store , share , manage , and host code and computing programs .
+repoository - A digtial space for storing flies and folders , specifallcy code.
+Code Enviroment - a digtial space for building programs using code.
+computing terminal - A digtial machine that runs code programs.
+Python - A programming language used to build a variety of software programs such as apps, games and AI tools.
