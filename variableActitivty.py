@@ -10,3 +10,28 @@ orange 1.05
 applesAtStore = 3
 kidsDoingMath = 20
 noInsuranceOnTrip 
+
+
+
+
+
+
+
+
+
+
+
+
+# Variable Naming Conventions 
+# We use naming conventions because we CANNOT have spaces in
+# variable names
+
+# Camel case - when creating variable names with multiple words 
+# every new word begins with a capital letter 
+# the reason why its called camel case is bc every new word
+# represents a hump.
+
+# Snake case - when creating a variable usinng snake case 
+# we use a underscore symbol to space out each new word 
+# the reason why its called snake case is bc the under score 
+# respsents a snake on the ground
