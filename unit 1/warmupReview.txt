@@ -1,0 +1,3 @@
+4 data types we've learned in this class are string,boiling,intergers,foild
+a code repoository a digtial space for storing files and folders and code
+A keybord is a input device 
