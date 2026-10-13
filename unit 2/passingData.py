@@ -23,3 +23,13 @@
     # memory trick- if you make a REAL world argument with a person
     # you need to come with REAL facts (data)
     check_Water_Depth(3)
+
+    def username():
+      name = input("please type in your name")
+      return name
+      def confirmLogin():
+        name = username()
+        print(name)
+
+# username()
+confirmLogin()
