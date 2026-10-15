@@ -24,3 +24,22 @@ if bill_amount == 1:
         def college():
             grade= int(input("Please type in your grade: "))
             if grade > 90:
+
+
+                def calculate_add():
+        
+                print("Program has started  :please type in 2 numbers to add ")
+num1 = int(input())
+num2 = int(input())
+print( num1 + num2)
+print("Prrogram has ended. ")
+
+
+def ticketPrices():
+    print("welcome to the movies. Please type in your age: ")
+    age = int(input())
+    if age<= 2:
+        print("Dont bring that baby in here ")
+
+
+    ticketPrices()
