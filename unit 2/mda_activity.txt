@@ -1,0 +1,5 @@
+1.The kinda game i'll be making is a basketball kinda game like for example a game like basketball legdens. A basketball game where you are trying to score.
+2.The general actions i want players to do is shoot the basketball and try to score.
+3.The player that has the most points in the game which is the objective will get a trophy.
+4.What happens to the player that loses the game he will have to 5 threes in a row until they can leave.
+5.basketball legends , basketball stars , basketball bros
