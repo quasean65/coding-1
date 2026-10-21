@@ -27,3 +27,18 @@ while 2+2 == num: # Condition --> Operations - must be TRUE
         print("Please type in a number betweem 1 and 10")
         userGuess = int(input("Please type in a number"))
         while userGuess != correctAmswer
+
+        # password reset function. Your function should take in a
+        # user password as an input. within the function there should be a 
+        # variable that contains the correct password.
+        # the user should be able to attempt to enter the password 4 times
+        # On the fourth attempt of getting the password inccorect
+        # it should print out a message telling the user that
+        # their account has been locked
+        
+        def passwordReset():
+            correct_password
+
+            def check_password(user_input):
+    correct_password = "secret123"
+    max_attempts = 4
