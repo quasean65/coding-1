@@ -48,4 +48,33 @@ for i in itemPrices:
         # I want to find ALL the grades lower than 85.
         if i < 85:
             print(i)
-            
+
+
+            # List are collection types for storing multiple pieces of data
+            # Key elements and purpsoses for lists:
+            # lists are organized and structured
+            # Lists can be manupulated and modified - mutable (means changable)
+            Lists items are accessible and useable
+
+            # When we want access an item in a list we use the indexing system 
+            # every item in a list is numbered
+            # a list index always starts at zero (0)
+
+            inventory= ["sword, shield, healing potion, armor"]
+
+            print(inventory[0]) # indicated im going to first position in the list
+
+            # When we want add an item to our list, we use the append() method
+            inventory.append("knife)
+            print(inventory)
+
+            # Use a method to remove the "healing potion " from the list 
+            inventory.remove("healing")
+            # invenroty.pop(2)
+            print(inventory)
+
+            # use a method to add a "war hammer" to the end of the list
+            inventory.append("war hammer")
+
+            # Use a method to add a new "healing potion" to index 4 of the list
+            inventory.insert(4,"healing potion")
